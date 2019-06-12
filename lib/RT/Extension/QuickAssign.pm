@@ -20,7 +20,7 @@ performance impact for some installations.
 
 =head1 RT VERSION
 
-Works with RT 4
+Works with RT 4.0, 4.2 and 4.4
 
 =head1 INSTALLATION
 
