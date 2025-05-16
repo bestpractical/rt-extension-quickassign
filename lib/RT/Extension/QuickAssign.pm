@@ -4,6 +4,8 @@ package RT::Extension::QuickAssign;
 
 our $VERSION = '1.02';
 
+RT->AddStyleSheets('rt-extension-quickassign.css');
+
 =head1 NAME
 
 RT-Extension-QuickAssign - Add owner change links on ticket display page
